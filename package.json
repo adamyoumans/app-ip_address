@@ -18,5 +18,6 @@
   "homepage": "https://github.com/adamyoumans/app-ip_address#readme",
   "dependencies": {
     "ip-cidr": "^2.1.4"
-  }
+  },
+  "devDependencies": {}
 }
